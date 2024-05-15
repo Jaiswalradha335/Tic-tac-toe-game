@@ -1,10 +1,16 @@
 Tic Tac Toe Game
+
+
+
 This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and
 JavaScript. The game allows two players to take turns and marks their moves with 'X' 
 and 'O'. The first player to get three in a row horizontally, vertically, or diagonally wins 
 the game otherwise the game will drop.
 
 Table of Contents
+
+
+
 Demo
 Features
 How to Play
@@ -12,9 +18,13 @@ Installation
 Contributing
 
 Demo
+
+
 You can try the game live here: Tic Tac Toe Game
 
 Features
+
+
 Two-player mode: Play against a friend on the same device.
 Simple and clean user interface.
 Responsive design for various screen sizes.
@@ -29,6 +39,7 @@ To run the game locally, follow these steps:
 
 Clone the repository:
 
+
 git clone https://github.com/your-radhajaiswal/tic-tac-toe.git
 Navigate to the project directory:
 
@@ -37,6 +48,8 @@ cd tic-tac-toe
 Open the index.html file in your web browser.
 
 Contributing
+
+
 If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository.
