@@ -36,14 +36,6 @@ Installation
 
 
 To run the game locally, follow these steps:
-
-Clone the repository:
-
-
-git clone https://github.com/your-radhajaiswal/tic-tac-toe.git
-Navigate to the project directory:
-
-
 cd tic-tac-toe
 Open the index.html file in your web browser.
 
